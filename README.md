@@ -17,6 +17,10 @@ A recipe generator app powered by an AI API.
 A fun meme generator project from the Scrimba React Beginner Course.  
 🔗 **Repo:** https://github.com/SadeghDehyadgari/meme-generator
 
+### 4. Tenzies Game
+A fun and interactive Tenzies dice game built with React.
+🔗 **Repo:** https://github.com/SadeghDehyadgari/Tenzies-game/tree/main
+
 ---
 
 More projects will be added as I continue learning and building! 🚀
