@@ -19,7 +19,7 @@ A fun meme generator project from the Scrimba React Beginner Course.
 🔗 **Repo:** https://github.com/SadeghDehyadgari/meme-generator
 
 ### 4. Tenzies Game
-A fun and interactive Tenzies dice game built with React.
+A fun and interactive Tenzies dice game built with React.  
 🔗 **Repo:** https://github.com/SadeghDehyadgari/Tenzies-game/tree/main
 
 ---
