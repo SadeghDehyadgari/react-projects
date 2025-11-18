@@ -14,7 +14,8 @@ A recipe generator app powered by an AI API.
 🔗 **Repo:** https://github.com/SadeghDehyadgari/chef-claude
 
 ### 3. Meme Generator
-A fun meme generator project from the Scrimba React Beginner Course.  
+A fun meme generator project from the Scrimba React Beginner Course. 
+
 🔗 **Repo:** https://github.com/SadeghDehyadgari/meme-generator
 
 ### 4. Tenzies Game
