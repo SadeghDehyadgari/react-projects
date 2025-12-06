@@ -22,6 +22,10 @@ A fun meme generator project from the Scrimba React Beginner Course.
 A fun and interactive Tenzies dice game built with React.  
 🔗 **Repo:** https://github.com/SadeghDehyadgari/Tenzies-game/tree/main
 
+### 5. Assembly Endgame
+A different version of hangman. 
+🔗 **Repo:** https://github.com/SadeghDehyadgari/assembly-endgame/
+
 ---
 
 More projects will be added as I continue learning and building! 🚀
